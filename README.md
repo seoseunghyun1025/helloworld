@@ -6,6 +6,6 @@
 [발표 ppt](/presentation.pptx)<br>
 발표 동영상
 <iframe width="640" height="720"
-src="https://youtu.be/6pyfsLXmXH8" title="
+src="https://youtu.be/6pyfsLXmXH8" title="손흥민 수상">
 
 #취미
